@@ -3,5 +3,6 @@ CREATE TABLE cricketers
 C_ID Primary key,
 Cname char(10),
 Gender char(1),
-Email varcha(100)
+Email varcha(100),
+salary decimal(10,2)
 )
